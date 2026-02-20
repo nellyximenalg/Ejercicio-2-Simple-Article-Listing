@@ -2,8 +2,8 @@ Ejercicio #2 : Simple Article Listing
 
 ---
 
-- Nombre: 
-- Número de Control:
+- Nombre: Nelly Ximena Lugo Guerrero
+- Número de Control:23151232
 
 ---
 
