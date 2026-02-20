@@ -19,8 +19,8 @@ Este proyecto es una página web hecha con HTML y CSS que muestra un listado de 
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)](https://nellyximenalg.github.io/Ejercicio-2-Simple-Article-Listing/)
+Repositorio en GitHub: (https://github.com/nellyximenalg/Ejercicio-2-Simple-Article-Listing)
+Deploy: [LINK]((https://nellyximenalg.github.io/Ejercicio-2-Simple-Article-Listing/)
 ---
 
 ## 📝 Reflexión
